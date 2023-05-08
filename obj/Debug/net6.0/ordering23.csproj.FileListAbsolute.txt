@@ -1,0 +1,15 @@
+C:\Users\oscar.le\Downloads\New folder\ordering23\obj\Debug\net6.0\ordering23.csproj.AssemblyReference.cache
+C:\Users\oscar.le\Downloads\New folder\ordering23\obj\Debug\net6.0\ordering23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar.le\Downloads\New folder\ordering23\obj\Debug\net6.0\ordering23.AssemblyInfoInputs.cache
+C:\Users\oscar.le\Downloads\New folder\ordering23\obj\Debug\net6.0\ordering23.AssemblyInfo.cs
+C:\Users\oscar.le\Downloads\New folder\ordering23\obj\Debug\net6.0\ordering23.csproj.CoreCompileInputs.cache
+C:\Users\oscar.le\Downloads\New folder\ordering23\bin\Debug\net6.0\ordering23.exe
+C:\Users\oscar.le\Downloads\New folder\ordering23\bin\Debug\net6.0\ordering23.deps.json
+C:\Users\oscar.le\Downloads\New folder\ordering23\bin\Debug\net6.0\ordering23.runtimeconfig.json
+C:\Users\oscar.le\Downloads\New folder\ordering23\bin\Debug\net6.0\ordering23.dll
+C:\Users\oscar.le\Downloads\New folder\ordering23\bin\Debug\net6.0\ordering23.pdb
+C:\Users\oscar.le\Downloads\New folder\ordering23\obj\Debug\net6.0\ordering23.dll
+C:\Users\oscar.le\Downloads\New folder\ordering23\obj\Debug\net6.0\refint\ordering23.dll
+C:\Users\oscar.le\Downloads\New folder\ordering23\obj\Debug\net6.0\ordering23.pdb
+C:\Users\oscar.le\Downloads\New folder\ordering23\obj\Debug\net6.0\ordering23.genruntimeconfig.cache
+C:\Users\oscar.le\Downloads\New folder\ordering23\obj\Debug\net6.0\ref\ordering23.dll
